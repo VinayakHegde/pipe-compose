@@ -1,1 +1,1 @@
-# compose-pipe
+# pipe-compose
